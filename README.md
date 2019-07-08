@@ -1,2 +1,2 @@
 # NR-Rpi-control
-With Node-Red check the status Raspberry Pi status and cooling fan
+With Node-Red check the Raspberry Pi status and control a cooling fan
